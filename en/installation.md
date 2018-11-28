@@ -35,7 +35,7 @@ This step allows you to add the Company Name & E-mail and also to create a new A
 Login
 -----
 
-Now that installation is complete, you can log into the admin panel.
+Now that installation is complete, you use an email address to log into the admin panel.
 
 ![akaunting login](_images/install_login.png)
 
